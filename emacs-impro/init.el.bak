@@ -1,0 +1,12 @@
+;; init.el --- Emacs configuration
+(setq inhibit-startup-message t) ;; hide the startup message
+(global-linum-mode t) ;; enable line numbers globally
+;; package => use MELPA repository
+(require 'package) ;; You might already have this line
+(add-to-list 'package-archives
+                          '("melpa" . "https://melpa.org/packages/") t)
+
+(package-initialize) ;; You might already have this line
+
+(set-default-font "Menio 16")
+;; init.el ends here
