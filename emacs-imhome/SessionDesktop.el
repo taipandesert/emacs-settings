@@ -1,0 +1,34 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Jun 29 17:38:35 2018
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+(setq revive:frame-configuration-to-restore
+  '(progn 
+     (revive:restore-frame '((tool-bar-position . top) (explicit-name) (icon-name) (bottom-divider-width . 0) (right-divider-width . 0) (top . 27) (left . 19) (unsplittable) (modeline . t) (width . 185) (height . 43) (fringe) (mouse-color . "black") (environment) (visibility . t) (cursor-color . "Red") (background-mode . light) (fullscreen) (alpha) (scroll-bar-height . 0) (scroll-bar-width . 15) (cursor-type . box) (auto-lower) (auto-raise) (icon-type) (title) (buffer-predicate) (tool-bar-lines . 1) (menu-bar-lines . 1) (right-fringe . 8) (left-fringe . 1) (line-spacing) (background-color . "#fdf6e3") (foreground-color . "Black") (horizontal-scroll-bars) (vertical-scroll-bars . right) (internal-border-width . 0) (border-width . 0) (font . "-*-Monaco-normal-normal-normal-*-16-*-*-*-m-0-iso10646-1") (fontsize . 0)) '(185 43 ((0 0 188 42)) (("~/Library/Application Support/Aquamacs Emacs/scratch buffer" "*scratch*" 1 1 ((tab "*scratch*" "/Users/crazydev/Library/Application Support/Aquamacs Emacs/scratch buffer"))))))))
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23350 39115 538098 0) (desktop . "208") "crazydev@iMac.local" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "Black") (background-color . "#fdf6e3") (line-spacing) (left-fringe . 1) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . light) (cursor-color . "Red") (visibility . t) (environment) (mouse-color . "black") (fringe) (frameset--id . "6DFA-2881-499F-69EB") (frameset--mini t . t) (height . 43) (width . 185) (modeline . t) (minibuffer . t) (unsplittable) (left . 19) (top . 27) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (display . "iMac.local") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 10) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 84) (min-pixel-width . 100) (min-pixel-height-ignore . 41) (min-pixel-width-ignore . 94) (min-pixel-height-safe . 21) (min-pixel-width-safe . 20)) leaf (pixel-width . 1881) (pixel-height . 882) (total-width . 188) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected . t) (hscroll . 0) (fringes 1 8 nil) (margins 5) (scroll-bars nil 2 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Documents/Programming/test.py" "/var/folders/9q/fhhxn0rx7y54rd82h455s5980000gp/T/py-eldoc-setup-code.py" "/var/folders/9q/fhhxn0rx7y54rd82h455s5980000gp/T/py-ffap-setup-code.py" "/var/folders/9q/fhhxn0rx7y54rd82h455s5980000gp/T/py-shell-completion-setup-code.py" "~/Documents/Programming/test.py" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/python-mode-20170731.105/python-mode-autoloads.el" "~/Documents/Programming/test.py" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/jedi-20160425.2156/jedi-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/jedi-core-20170121.610/jedi-core-autoloads.el" "~/Documents/Programming/test.py" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/jedi-20160425.2156/jedi-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/jedi-core-20170121.610/jedi-core-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/epc-20140609.2234/epc-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/concurrent-20161228.1930/concurrent-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/ctable-20140304.1659/ctable-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/python-environment-20150310.153/python-environment-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/deferred-20170531.2135/deferred-autoloads.el" "~/Documents/Programming/test.py" "~/Documents/Programming/test.c" "~/Documents/Programming/test.py" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/auto-complete-20170124.1845/auto-complete-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/popup-20160709.729/popup-autoloads.el" "~/Documents/Programming/test.rkt" "~/Documents/Programming/test.py" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/use-package-20170710.1234/use-package-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/bind-key-20161218.1520/bind-key-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/diminish-20170419.1036/diminish-autoloads.el" "~/Documents/Programming/test.py" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/monokai-theme-20170724.740/monokai-theme-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/gruvbox-theme-20170730.1820/gruvbox-theme-autoloads.el" "~/Documents/Programming/test.py" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/yasnippet-20170723.1530/yasnippet-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/creamsody-theme-20170222.258/creamsody-theme-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/autothemer-20170112.1324/autothemer-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/geiser-20170704.1044/geiser-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/solarized-theme-20170430.800/solarized-theme-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/dash-20170727.212/dash-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/sml-mode-6.7/sml-mode-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/Packages/elpa/zenburn-theme-20170511.1337/zenburn-theme-autoloads.el" "~/Library/Preferences/Aquamacs Emacs/customizations.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/crazydev/Library/Application Support/Aquamacs Emacs/scratch buffer"
+  "*scratch*"
+  'text-mode
+  '(auto-fill-mode smart-spacing-mode override-global-mode yas-minor-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((mark-ring nil)))
+

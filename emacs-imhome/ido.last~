@@ -1,0 +1,89 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week2/" . "homework/")
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week1/" . "homework/")
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/" . "week2/")
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/" . "part-A/")
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week2/" . "lists_options.sml/")
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/" . "week2/")
+ ("/Users/crazydev/" . "Documents/")
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/" . "SML/")
+ ("/Users/crazydev/Documents/Programming/" . "cs-prog-lang/")
+ ("/Users/crazydev/Documents/" . "Programming/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week2/homework/"
+ "/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week2/"
+ "/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week1/homework/"
+ "/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week2/"
+ "/Users/crazydev/Documents/Programming/"
+ "/Users/crazydev/.emacs.d/"
+ "/Users/crazydev/Documents/"
+ "/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week3/"
+ "/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/Racket/"
+ "/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week4/"
+ "/Users/crazydev/"
+ "/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week1/"
+ "/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week2/lists_options.sml/"
+ "/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "hw2_assignment1.sml"
+ "tail_recursion.sml"
+ "exceptions.sml"
+ "nested_patterns_more.sml"
+ "nested_patterns1.sml"
+ "nested_patterns.sml"
+ "extra_problem25.sml"
+ "case_expressions.sml"
+ "data_types_binding.sml"
+ "compound_types.sml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week2/homework/" (23611 39804 0 0) "hw2test.sml" "hw2provided.sml" "hw2_assignment1.sml" "../" "./")
+
+ ("/Users/crazydev/" (23611 39379 0 0) "VirtualBox VMs/" "vim-github/" "testmask/" "TestFolder/" "testdir/" "spotlight_deny/" "Softwares/" "rsync_log/" "rsync" "Public/" "PS1_comparisons.txt" "Pictures/" "new_git_aliases.txt" "Music/" "Movies/" "Library/" "last_config_files/" "hm_emacs.bak" "git_aliases.txt" "find_mdfind.txt" "extra_problem25.sml" "etc/" "Downloads/" "Documents/" "dictionary.txt" "Desktop/" "CS_categories.txt" "Coursera.txt" "config_files/" "com.box.sync.plist" "boxsync1.txt" "boxsync.txt" "Bookmarks/" "Bibliothèque calibre/" "archivemacs.zip" "aqua/" "Applications/" "anaconda3/" ".Xauthority" ".vimrc.bak" ".vimrc" ".viminfo" ".vim_python_settings" ".vim/" ".vagrant.d/" ".udacity-terminal-config/" ".Trash/" ".subversion/" ".ssh/" ".spyder-py3/" ".Spyder/" ".rstudio-desktop/" ".ropeproject/" ".rnd" ".Rhistory" ".QtWebEngineProcess/" ".python_history" ".pylint.d/" ".octave_hist" ".NERDTreeBookmarks" ".matplotlib/" ".local/" ".lesshst" ".jupyter/" ".ipython/" ".idlerc/" ".gnupg/" ".gitconfig" ".ghc/" ".emacs.d/" ".emacs.bak" ".DS_Store" ".cups/" ".continuum/" ".config/" ".conda/" ".cocoapods/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_sessions/" ".bash_profile.macports-saved_2017-08-14_at_14:35:14" ".bash_profile-anaconda3.bak" ".bash_profile" ".bash_history" ".atom/" "../" "./")
+
+ ("/Users/crazydev/.emacs.d/" (23611 30911 0 0) "snippets/" "SessionDesktop.el" "python-mode.el-6.2.1/" "lisp/" "init.el" "ido.last~" "ido.last" "hm_init.el.bak" "elpa/" "color-theme/" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week1/homework/" (23611 39198 0 0) "ziprecycle.sml~" "zip_r.sml~" "temp.sml~" "problem25_challenge.sml~" "hw1_tests_compact.sml" "hw1_tests.sml" "hw1_instructions.sml" "hw1_extra_tests.sml~" "hw1_extra_tests.sml" "hw1_extra_problems.sml~" "hw1_extra_problems.sml" "hw1_extra.sml~" "hw1_extra.sml" "hw1_assignment.sml" "extra_problem25.sml~" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week2/" (23611 39446 0 0) "type_synonyms.sml" "type_inference.sml" "tail_recursion.sml~" "tail_recursion.sml" "polymorphic_equality.sml" "polymorphic_datatypes.sml" "pattermatching_functions.sml" "nested_patterns_more.sml" "nested_patterns1.sml" "nested_patterns.sml" "more_expressions.sml" "lists_options.sml" "homework/" "exceptions.sml~" "exceptions.sml" "data_types_binding.sml" "compound_types.sml" "case_expressions.sml" ".#pattermatching_functions.sml" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/" (23508 45894 0 0) "virtualenv.txt" "Udacity_ProgrammingLanguages/" "Udacity_IntroDataScience/" "udacity-git-course/" "Udacity/" "ud-technical-interview/" "ud-software-debug/" "ud-prog-lang/" "ud-interactive-3d/" "ud-diff-eq/" "ud-design-computer-programs/" "ud-des/" "ud-data-mongodb/" "ud-cs-intro/" "test1.sml" "test.py" "test-sml/" "test-pymode.py" "smooth-random-noise.py" "python-misc/" "ObjectiveC/" "ObjC_Training/" "my_project_virtualenv/" "ipython/" "haskell-great-good/" "Foundations_ObjectiveC/" "First_iOS_App/" "Edx_Iphone/" "Edx_Htc1/" "edx-python-datasci/" "DataScience/" "cs-prog-lang-B/" "cs-prog-lang/" "cs-app-datasci-spec/" "Coursera_ProgrammingLanguages/" "coursera-app-datasci/" "c-prog-absolute-beginner/" "BuildingSkillsPython/" "BeginningC/" "Beginning_ObjectiveC/" "backup_temp/" ".ropeproject/" ".gitignore" ".DS_Store" "#test1.sml#" "#test-scheme.scm#" "../" "./")
+
+ ("/Users/crazydev/Documents/" (23471 61128 0 0) "UdacityCourseCatalogAPIDocumentation-v0.pdf" "Udacity_Git/" "TutosMerge_New/" "Tutos_Temp_Diff/" "test-racket-mode.rkt" "Softwares/" "SoftwareIdeas/" "rsync_exclude.txt" "Project_Textmate/" "Programming/" "priv@te/" "oop-polymorphism.py" "MOOC_API/" "ipython-shortcuts.pdf" "Git_Training/" "git_learning.txt" "emacs-python.py" "Edu/" "Coursera_BioInformatics/" "course1_downloads/" "config_files/" "Catalog APIs - Coursera Technology.pdf" "bookLinAlg.pdf" "book_linalg.pdf" "atom-mac.zip" ".ropeproject/" ".localized" ".DS_Store" ".#emacs-python.py" "#emacs-python.py#" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/" (23465 30111 0 0) "week2/" "week1/" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/part-A/week1/" (23408 32396 0 0) "shadowing.sml" "pairs_tuples.sml" "options.sml" "nested_functions.sml" "mutations.sml" "lists_fun.sml" "lists.sml" "let_expressions.sml" "let_efficiency.sml" "homework/" "functions2.sml" "functions1.sml" "booleans_comparisons.sml" "bindings_expressions.sml" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/cs-prog-lang/" (23408 32396 0 0) "part-A/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/" (23299 11043 0 0) "week4/" "week3/" "week2/" "week1/" "TODO_sml.txt" "section4sum.pdf" "section3sum.pdf" "notes_section2sump.pdf" "notes_section1sum.pdf" "homeworks/" "gcd2.sml" "gcd.sml" "assignment_hw3.pdf" "assignment_hw2.pdf" "assignment_hw1.pdf" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week2/" (22637 12606 0 0) "useful_datatypes.sml~" "useful_datatypes.sml" "type_synonyms.sml~" "type_synonyms.sml" "tuples_syntactic_sugar.sml~" "tuples_syntactic_sugar.sml" "tail_recursion.sml~" "tail_recursion.sml" "records.sml~" "records.sml" "polymorphic_datatypes.sml~" "polymorphic_datatypes.sml" "nested_patterns.sml~" "nested_patterns.sml" "more_nested_patterns.sml~" "more_nested_patterns.sml" "misc.sml" "lists_options.sml~" "lists_options.sml" "hw2test.sml" "hw2provided.sml" "hw2_todo.txt" "hw2_test_cases.sml~" "hw2_test_cases.sml" "hw2_assignment.sml~" "hw2_assignment.sml" "expression_example.sml~" "expression_example.sml" "exceptions.sml~" "exceptions.sml" "datatype_bindings.sml~" "datatype_bindings.sml" "compound_types.sml" "case_expressions.sml~" "case_expressions.sml" "accumulator_tail_recursions.sml~" "accumulator_tail_recursions.sml" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week3/" (22637 12606 0 0) "polymorphictypes_function_arguments.sml~" "polymorphictypes_function_arguments.sml" "partial_applications.sml~" "partial_applications.sml" "mutable_references.sml" "misc_pattern.sml~" "misc_pattern.sml" "map_filter.sml~" "map_filter.sml" "lexical_scopes.sml~" "lexical_scopes.sml" "intro_firstclass_functions.sml~" "intro_firstclass_functions.sml" "hw3test.sml" "hw3provided.sml" "hw3_test_cases.sml" "hw3_assignment.sml~" "hw3_assignment.sml" "fold_moreclosures.sml~" "fold_moreclosures.sml" "currying_warmup.sml~" "currying_warmup.sml" "closureidiom_currying.sml~" "closureidiom_currying.sml" "closureidiom_combinfun.sml~" "closureidiom_combinfun.sml" "closure_recomputations.sml~" "closure_recomputations.sml" "anonymous_functions.sml~" "anonymous_functions.sml" "#currying_warmup.sml#" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week1/" (22627 52313 0 0) "shadowing.sml~" "shadowing.sml" "pairs_tuples.sml~" "pairs_tuples.sml" "options.sml~" "options.sml" "nested_functions.sml~" "nested_functions.sml" "lists.sml~" "lists.sml" "list_functions.sml~" "list_functions.sml" "let_expressions.sml~" "let_expressions.sml" "let_efficiency.sml~" "let_efficiency.sml" "hw1test.sml" "hw1_todo.txt" "hw1_testcases.sml" "hw1_count_lines.txt" "hw1_assignment.sml~" "hw1_assignment.sml" "functions_informally.sml~" "functions_informally.sml" "booleans_comparisons.sml~" "booleans_comparisons.sml" "binding_expressions.sml~" "binding_expressions.sml" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week4/" (22627 52313 0 0) "signature_hiding.sml~" "signature_hiding.sml" "signature_example.sml" "mutual_recursion.sml~" "mutual_recursion.sml" "modules_namespace.sml~" "modules_namespace.sml" "module_example.sml~" "module_example.sml" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/Racket/" (22616 12482 0 0) "FirstRacket.rkt" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/" (22615 58163 0 0) "SML/" "Racket/" "../" "./")
+
+ ("/Users/crazydev/Documents/Programming/Coursera_ProgrammingLanguages/SML/week2/lists_options.sml/" (22563 33721 0 0) "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
